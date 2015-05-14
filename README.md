@@ -1,4 +1,4 @@
-# robobling2
+# robobling3
 Drive NeoPixels in a 2D arrangement as one virtual strand
 
 Take a NeoPixel string, cut it up, and lay it out in a 2D layout of strips. This drives the pixel colors in a "virtual strand" that is as wide as the horizontal dimension and is replicated vertically.
